@@ -1,12 +1,16 @@
 <!-- NAME -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2200&pause=7000&color=38BDF8&center=true&vCenter=true&width=750&height=70&lines=%3E+OMKAR+HARDIK+MAHALIK_" alt="OMKAR MAHALIK">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2200&pause=7000&color=38BDF8&center=true&vCenter=true&width=750&height=70&lines=%3E+OMKAR+HARDIK+MAHALIK_"
+    alt="OMKAR MAHALIK">
 
 </div>
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:6366F1,100:38BDF8&height=2&section=header&width=900" alt="divider">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:6366F1,100:38BDF8&height=2&section=header&width=900"
+    alt="divider">
 
 </div>
 
@@ -22,14 +26,18 @@
 <!-- TYPING INTRO -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+real-world+projects;Exploring+Web+Development+%26+Cybersecurity;Turning+ideas+into+working+software" alt="Typing Animation">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+real-world+projects;Exploring+Web+Development+%26+Cybersecurity;Turning+ideas+into+working+software"
+    alt="Typing Animation">
 
 </div>
 
 <!-- DIVIDER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:6366F1,100:38BDF8&height=2&section=header&width=900" alt="divider">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:6366F1,100:38BDF8&height=2&section=header&width=900"
+    alt="divider">
 
 </div>
 
@@ -47,7 +55,7 @@
 - 📫 How to reach me **omkarhardik1502@gmail.com**
 - ⚡ Fun fact **I love building things and exploring new technology.**
 
-<br/>
+<br />
 
 ## 🌐 Socials:
 
@@ -55,7 +63,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkarhardik15)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarhardik1502@gmail.com)
 
-<br/>
+<br />
 
 # 💻 Tech Stack:
 
@@ -70,32 +78,32 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
-<br/>
+<br />
 
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.shion.dev/api?username=omkarhardik15&theme=gotham&hide_border=true&include_all_commits=true&count_private=false)
 
-<br/>
+<br />
 
 ![](https://streak-stats.demolab.com/?user=omkarhardik15&theme=gotham&hide_border=true)
 
-<br/>
+<br />
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=omkarhardik15&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<br/>
+<br />
 
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=omkarhardik15&theme=apprentice&no-frame=true&no-bg=false&margin-w=4)
 
-<br/>
+<br />
 
 ---
 
 <div align="center">
 
-### 🚀 Keep Building. Keep Learning.
+  ### 🚀 Keep Building. Keep Learning.
 
 </div>
