@@ -1,36 +1,41 @@
+<!-- NAME -->
 <div align="center">
 
-<!-- Custom Profile Banner -->
-<img src="./assets/profile-banner.png" width="100%" alt="Omkar Mahalik - Profile Banner">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2200&pause=7000&color=38BDF8&center=true&vCenter=true&width=750&height=70&lines=%3E+OMKAR+HARDIK+MAHALIK_" alt="OMKAR MAHALIK">
 
-<br><br>
+</div>
+<div align="center">
 
-<!-- Animated Typing -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=800&lines=Code.+Create.+Learn.+Repeat.;Building+real-world+projects;Exploring+Web+Development+%26+Cybersecurity;Turning+ideas+into+working+software" alt="Typing Animation">
-
-<br><br>
-
-<!-- Animated Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:6366F1,100:38BDF8&height=2&section=header&width=900">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:6366F1,100:38BDF8&height=2&section=header&width=900" alt="divider">
 
 </div>
 
 <br>
 
-# 💫 About Me:
+<!-- ANIMATED BANNER -->
+<div align="center">
+  <img src="./assets/profile-banner-animated.svg" width="100%" alt="Omkar Mahalik">
+</div>
 
-- 🔭 I’m currently working on **Personal projects**
-- 🌱 I’m currently learning **Web development, React, Git & GitHub, Cybersecurity**
-- 🤝 I’m looking for help with **Building real-world projects & improving my development skills**
-- 👨‍💻 All of my projects are available at https://github.com/omkarhardik15
-- 💬 Ask me about **Web development, GitHub, Technology and Coding**
-- 📫 How to reach me **omkarhardik1502@gmail.com**
-- ⚡ Fun fact **I love building things and exploring new technology.**
+<br>
 
-# 💫 About Me:
-- 🔭 I’m currently working on **Personal projects**
-- 🌱 I’m currently learning **Web development, React, Git & GitHub, Cybersecurity**
-...
+<!-- TYPING INTRO -->
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+real-world+projects;Exploring+Web+Development+%26+Cybersecurity;Turning+ideas+into+working+software" alt="Typing Animation">
+
+</div>
+
+<!-- DIVIDER -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:6366F1,100:38BDF8&height=2&section=header&width=900" alt="divider">
+
+</div>
+
+<br>
+
+
 
 # 💫 About Me:
 
