@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭 I’m currently working on **Personal projects**<br><br>- 🌱 I’m currently learning **Web development, React, Git & GitHub, Cyber Securety**<br><br>- 🤝 I’m looking for help with **Building real-world projects & improving my development skills**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/omkarhardik15](https://github.com/omkarhardik15)<br><br>- 💬 Ask me about **Web development, GitHub, Technology and Coding**<br><br>- 📫 How to reach me **omkarhardik1502@gmail.com**<br><br>- ⚡ Fun fact **I love building things and exploring new technology.**
+ -🔭 I’m currently working on **Personal projects**<br><br>- 🌱 I’m currently learning **Web development, React, Git & GitHub, Cyber Securety**<br><br>- 🤝 I’m looking for help with **Building real-world projects & improving my development skills**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/omkarhardik15](https://github.com/omkarhardik15)<br><br>- 💬 Ask me about **Web development, GitHub, Technology and Coding**<br><br>- 📫 How to reach me **omkarhardik1502@gmail.com**<br><br>- ⚡ Fun fact **I love building things and exploring new technology.**
 
 
 ## 🌐 Socials:
