@@ -1,16 +1,36 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:1a1a1a,100:ff3131&height=300&section=header&text=Omkar%20Mahalik&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building.%20Learning.%20Shipping.&descAlignY=55&descSize=22&descColor=ff3131" alt="header"/>
+<!-- Custom Profile Banner -->
+<img src="./assets/profile-banner.png" width="100%" alt="Omkar Mahalik - Profile Banner">
 
-<!-- Typing Animation -->
-<a href="https://github.com/omkarhardik15">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=850&lines=💻+Computer+Science+Student;🌱+Learning+Web+Development+%26+React;🚀+Building+real-world+projects;🔐+Exploring+Cybersecurity;☕+Powered+by+curiosity+%26+code" alt="Typing SVG" />
-</a>
+<br><br>
+
+<!-- Animated Typing -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=800&lines=Code.+Create.+Learn.+Repeat.;Building+real-world+projects;Exploring+Web+Development+%26+Cybersecurity;Turning+ideas+into+working+software" alt="Typing Animation">
+
+<br><br>
+
+<!-- Animated Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:6366F1,100:38BDF8&height=2&section=header&width=900">
 
 </div>
 
-<br/>
+<br>
+
+# 💫 About Me:
+
+- 🔭 I’m currently working on **Personal projects**
+- 🌱 I’m currently learning **Web development, React, Git & GitHub, Cybersecurity**
+- 🤝 I’m looking for help with **Building real-world projects & improving my development skills**
+- 👨‍💻 All of my projects are available at https://github.com/omkarhardik15
+- 💬 Ask me about **Web development, GitHub, Technology and Coding**
+- 📫 How to reach me **omkarhardik1502@gmail.com**
+- ⚡ Fun fact **I love building things and exploring new technology.**
+
+# 💫 About Me:
+- 🔭 I’m currently working on **Personal projects**
+- 🌱 I’m currently learning **Web development, React, Git & GitHub, Cybersecurity**
+...
 
 # 💫 About Me:
 
