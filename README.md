@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Omkar%20Mahalik&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Building.%20Learning.%20Shipping.&descAlignY=55&descSize=22" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:1a1a1a,100:ff3131&height=300&section=header&text=Omkar%20Mahalik&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building.%20Learning.%20Shipping.&descAlignY=55&descSize=22&descColor=ff3131" alt="header"/>
 
 <!-- Typing Animation -->
 <a href="https://github.com/omkarhardik15">
